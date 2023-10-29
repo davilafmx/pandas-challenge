@@ -1,0 +1,12 @@
+PyCitySchools analysis
+
+Using the data gathered on the “District Summary” we can see the following data:
+District Summary
+
+Out of the 15 schools the average reading score is higher than the average math score.
+
+School Summary
+
+The school “Bailey High School” has the highest budget being $3,124,928.00.
+The school with the highest budget per student is “Huang High School”.
+Cabrera High School has the highest percentage of overall passing.

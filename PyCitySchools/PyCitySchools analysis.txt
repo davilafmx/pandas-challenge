@@ -1,0 +1,19 @@
+PyCitySchools analysis
+
+
+Summary
+
+After comparing the data gathered between the schools we can compare the results of their math scores and reading socres per student and the decide which how much budget will be given next year.
+The school data shows how their students are doing in each area, making it easier to campare each school and deciding where the budget is going to go.
+
+
+Conclusion
+
+My conclusion is to award the school "Cabrera High School" because they have the highest percentage of overall passing and at the same time try to push the "Rodriguez High school"  wich has the lowest overall passing percentage so it can try to improve their results.
+Here is some extra info worth considering:
+
+.-The school “Bailey High School” has the highest budget being $3,124,928.00
+.-The school with the highest budget per student is “Huang High School”.
+
+
+
